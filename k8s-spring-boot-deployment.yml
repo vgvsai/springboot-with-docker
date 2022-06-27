@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: harshagadhi/sample-pipeline
+          image: aravind2389/html
           ports:
             - containerPort: 8080
           env:
