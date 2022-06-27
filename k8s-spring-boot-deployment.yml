@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: dockerhandson/java-web-app
+          image: harshagadhi/sample-pipeline
           ports:
             - containerPort: 8080
           env:
